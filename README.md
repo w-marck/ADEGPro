@@ -6,7 +6,7 @@ Gerenciador e organizador de dados técnicos focado em análises, simulações e
 
 ## 🏁 Ciclos de Desenvolvimento do ADEGPro
 
-Cada ciclo representa um **estágio da maturidade** do projeto. Ele aparece como **o primeiro dígito** da versão (`ESTÁGIO.MAJOR.MINOR.PATCH`) e determina **o que esperar da estabilidade, da interface e da funcionalidade do software.**
+Cada ciclo representa um **estágio da maturidade** do projeto. Ele aparece como **o primeiro dígito** da versão (`ESTÁGIO.MAJOR.HEDADO.MINOR.PATCH_DATA`) e determina **o que esperar da estabilidade, da interface e da funcionalidade do software.**
 
 ---
 
