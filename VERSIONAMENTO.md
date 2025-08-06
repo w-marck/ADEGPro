@@ -10,7 +10,7 @@ O SemVer não define com clareza os significados das fases alpha e beta. O VRLC 
   
 * **Ciclos 4, 3 e 2** – representam o acendimento progressivo das luzes de largada, indicando avanços no amadurecimento do projeto (fase alpha e beta com critérios definidos);
   
-* **Ciclo 1** – o momento da "bandeada de largada", em que o projeto atinge um estado estável e pronto para produção (release oficial).
+* **Ciclo 1** – o momento da "bandeirada de largada", em que o projeto atinge um estado estável e pronto para produção (release oficial).
   
 
 Diferente do SemVer, o VRLC também permite manter o histórico de versões anteriores à adoção do modelo. Por meio de um campo chamado **valor herdeiro**, é **PODE** ser registrado o último número de versão MAJOR do ciclo anterior. Isso preserva a continuidade do histórico e evita o reinício artificial da contagem de versões quando o projeto muda de abordagem ou estrutura de versionamento.
@@ -434,3 +434,4 @@ Esta seção apresenta exemplos práticos que ilustram o uso dos componentes do 
 | `2.0.0` | Largada+ | N/A | 2   | 0   | 0   | Depois da Largada, estágio e HERDADO somem, segue SemVer |
 | `2.0.0_0805` | Largada+ | N/A | 2   | 0   | 0   | Segue SemVer, gêmeo do ciclo `2.0.0` |
 | `3.16.1.0.0_20250722` | Amarelo | 16  | 1   | 0   | 0   | UI e núcleo funcional (herda 16 do **legado** pré-VRLC em fase avançada) iniciado no dia 22/07/2025 |
+
