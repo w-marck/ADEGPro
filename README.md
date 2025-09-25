@@ -16,7 +16,7 @@ Veja as [ATUALIZAÇÕES DA VERSÃO](CHANGELOG.md).
 
 Veja a [VERSÃO do ADEGPRO](VERSION) 
 
-O [VRLC - VagalumeRaceLightCicle V2.1.1.0.0_0805](VERSIONAMENTO.md) é um modelo de versionamento estendido baseado no SemVer (Semantic Versioning), criado para oferecer uma visão mais detalhada e estruturada do ciclo de vida de um projeto. Inspirado na largada de uma corrida de Fórmula 1, o VRLC divide o desenvolvimento em cinco ciclos progressivos que indicam o estágio atual do projeto, desde a fase experimental até o lançamento estável. Além disso, o modelo introduz conceitos como "valor herdeiro" e "versão gêmea" para preservar o histórico de versões anteriores e registrar alterações mínimas que não impactam a versão oficial, respectivamente. A estrutura de versionamento proposta é: `CICLO.HERDADO.MAJOR.MINOR.PATCH_DATA`, proporcionando rastreabilidade histórica, precisão semântica e clareza evolutiva.
+O [VRLC - VagalumeRaceLightCicle V1.0.0 Verde 1](VERSIONAMENTO.md) é um modelo de versionamento estendido baseado no SemVer (Semantic Versioning), criado para oferecer uma visão mais detalhada e estruturada do ciclo de vida de um projeto. Inspirado na largada de uma corrida de Fórmula 1, o VRLC divide o desenvolvimento em cinco ciclos progressivos que indicam o estágio atual do projeto, desde a fase experimental até o lançamento estável. Além disso, o modelo introduz conceitos como "valor herdeiro" e "versão gêmea" para preservar o histórico de versões anteriores e registrar alterações mínimas que não impactam a versão oficial, respectivamente. A estrutura de versionamento proposta é: `CICLO.HERDADO.MAJOR.MINOR.PATCH_DATA`, proporcionando rastreabilidade histórica, precisão semântica e clareza evolutiva.
 
 **Exemplo: VRLC V2.1.1.0.0_0805**
 
