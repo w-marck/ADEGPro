@@ -1,4 +1,6 @@
-# ADEGPRO - [VRLC 6.0.0 Oficina 15](VERSION)
+# ADEGPRO - [VRLC 6.0.0 Oficina 15 25/09](VERSION)
+
+VRLC 5.6.0.0_0925
 
 ### Analisador de Dados e Estratégia para o GPRO
 
@@ -21,12 +23,12 @@ O [VRLC - VagalumeRaceLightCicle V1.0.0 Verde 1](VERSIONAMENTO.md) é um modelo 
 **Exemplo: VRLC V2.1.1.0.0_0805**
 
 ```python
-CICLO:  2
-HERDADO:1
-MAJOR:  1
-MINOR:  0
-PATCH:  0
-DATA:   "05/08"
+CICLO:  2 # Verde
+HERDADO:1 # MAJOR do ciclo anterior
+MAJOR:  1 # Segue SemVer com modificações, ler documentação.
+MINOR:  0 # Segue SemVer com modificações, ler documentação.
+PATCH:  0 # Segue SemVer com modificações, ler documentação.
+DATA:   "05/08" # Semver resetado = Data da mudança do ciclo. SemVer não resetado = versão gêmea.
 ```
 
 Para conhecer mais sobre o modelo de versionamento VRLC
