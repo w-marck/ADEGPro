@@ -1,4 +1,4 @@
-# VRLC – VagalumeRaceLightCycle  1.1.0.1 Verde 1 05/08
+# VRLC – VagalumeRaceLightCycle  1.0.1 Verde 1 05/08
 
 VRLC 2.1.1.0.1
 
@@ -436,5 +436,6 @@ Esta seção apresenta exemplos práticos que ilustram o uso dos componentes do 
 | `2.0.0` | Largada+ | N/A | 2   | 0   | 0   | Depois da Largada, estágio e HERDADO somem, segue SemVer |
 | `2.0.0_0805` | Largada+ | N/A | 2   | 0   | 0   | Segue SemVer, gêmeo do ciclo `2.0.0` |
 | `3.16.1.0.0_20250722` | Amarelo | 16  | 1   | 0   | 0   | UI e núcleo funcional (herda 16 do **legado** pré-VRLC em fase avançada) iniciado no dia 22/07/2025 |
+
 
 
