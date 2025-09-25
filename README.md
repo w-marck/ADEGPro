@@ -1,4 +1,4 @@
-# ADEGPRO - [VRLC CICLO 5](VERSION)
+# ADEGPRO - [VRLC 6.0.0 Oficina 15](VERSION)
 
 ### Analisador de Dados e Estratégia para o GPRO
 
